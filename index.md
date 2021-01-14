@@ -1,15 +1,15 @@
 ## About
 
-Jiebang Xing
+Jinyong Wen
 
 Master Candidate
 
-School of Automation, Beijing Institute of Technology, Beijing, China
+Institution of Automation, Beijing, China
 
 ### Interests
 
-* Reinforcement Learning
-* Game Theory
+* Deep Learning
+* Graph Neural Networks
 
 ### Education
 
